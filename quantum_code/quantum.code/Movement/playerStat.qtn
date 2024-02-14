@@ -1,0 +1,6 @@
+component PlayerStat {
+	int Speed;
+	int PlayerID;
+	int ScoreCount;
+	bool cantBlock;
+}

@@ -1,0 +1,4 @@
+component SoccerBall 
+{
+	player_ref WinningPlayer;
+}

@@ -1,0 +1,6 @@
+input {
+	short InputVectorX;
+	short InputVectorY;
+
+	button Block;
+}

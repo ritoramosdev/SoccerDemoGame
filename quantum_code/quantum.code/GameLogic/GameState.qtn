@@ -1,0 +1,9 @@
+enum GameState 
+{
+	FreeRoam,
+	Playing,
+	GoalCountdown,
+	Restart,
+	GameOver,
+	ReturnToLobby,
+}

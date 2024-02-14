@@ -1,0 +1,6 @@
+singleton component GameSession{
+	GameState State;
+	bool hasGoalScored;
+	FP GoalCountdownTimer;
+	FP GameOverCountdownTimer;
+}
